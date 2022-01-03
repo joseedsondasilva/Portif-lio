@@ -1,7 +1,7 @@
 # Portif-lio
 Portifólio contendo todos os meus projetos.
 
-link do portifólio: https://musing-benz-29bfc6.netlify.app/
+link do portifólio: https://priceless-lumiere-64e519.netlify.app/
 
 link do sing up form: https://clever-wescoff-f2e9eb.netlify.app/
 
