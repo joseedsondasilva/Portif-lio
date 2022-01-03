@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Contact Form</title>
+<meta charset="utf-8" />
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <form name="meu_form">
+
+  <h1>Entre em contato</h1>
+  <h2>José Edson da Silva</h2>
+  <h6>Software Developer - Content Creator - </h6>
+
+    <label for="name">
+      <span>Name:</span>
+      <input type="text" id="name" placeholder="seu nome" name="name">
+  </label>
+
+
+  <label for="email">
+    <span>E-mail:</span>
+    <input type="email" id="email" placeholder="fulano@mail.com" name="email">
+</label>
+
+   <label for="fone">
+     <span>Fone:</span>
+  <input type="tel" id="foneid" placeholder="(xx)xx-xx-xx-xx" name="fone" />
+  </label>
+
+    <label for="story">
+    <span>Opinião:</span>
+  <textarea type="story" id="story" placeholder="Deixe sua opnião" name="story"
+  rows="5" cols="30"></textarea>
+</label>
+ 
+<input type="submit" class="enviar" onclick="Enviar();" value="Enviar" />
+
+  <small class="text-muted">Projeto Web</small>
+</form>
+
+<script src="index.js"></script>
+</body>
+</html>
