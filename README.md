@@ -9,4 +9,4 @@ link da langin page: https://romantic-hawking-07f876.netlify.app/
 
 link do stopwatch: https://zealous-swirles-46e9e4.netlify.app/
 
-limk do contact form: https://kind-ritchie-090b7b.netlify.app/
+limk do contact form: https://dazzling-varahamihira-52ba90.netlify.app/
