@@ -1,5 +1,5 @@
 # Portif-lio
-Portifólio contendo todos os meus projetos.
+Portifólio contendo alguns dos meus projetos.
 
 link do portifólio: https://priceless-lumiere-64e519.netlify.app/
 
